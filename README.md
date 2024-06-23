@@ -1,0 +1,2 @@
+# FUSIONFRAMEWORK
+discord rich prescence
